@@ -1,0 +1,10 @@
+{
+  "userID": "2858017300939514",
+  "coreURL": "https://mmc-api.meco-soldel.com/bot/webhook",
+  "loadCapacity": 250,
+  "loadReps": 7,
+  "msgLoad": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+  "dfUsername": "meco-chatbot-uat",
+  "dfPassword": "79ae5561-e194-4954-bda6-2ccd4fb85dcf"
+}
+
